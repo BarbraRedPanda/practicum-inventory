@@ -97,6 +97,7 @@ h4  {
   border: 2px solid black;
   width: 80%; /* Could be more or less, depending on screen size */
   border-radius: 1px;
+  min-height: 20%;
 }
 
 .close {
